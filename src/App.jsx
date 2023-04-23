@@ -8,7 +8,6 @@ import CartDrawer from "./sections/CartDrawer";
 import SearchDrawer from "./sections/SearchDrawer";
 import MenuDrawer from "./sections/MenuDrawer";
 import CollectionDetail from "./pages/CollectionDetail";
-
 import "@fontsource/poppins";
 import "react-loading-skeleton/dist/skeleton.css";
 import "swiper/css";
